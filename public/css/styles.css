@@ -1,0 +1,77 @@
+.avatar{
+    width: 55px;
+}
+
+.circleImage{
+    border-radius: 900px;
+    width: 35px;
+    height: 35px;
+}
+
+.navbar .avatar{
+    border-radius: 900px;
+    width: 35px;
+    height: 35px;
+
+}
+
+.imagePost{
+    width: 100%;
+}
+
+.card-body{
+    padding: 0px;
+}
+
+.card-body .description{
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.card{
+    margin-bottom: 25px;
+    padding-bottom: 10px;
+}
+
+.like, .dislike{
+    width: 30px;
+    margin-right: 0px;
+
+}
+
+.likeAndComments span{
+    margin-right: 10px;
+}
+
+.likeAndComments{
+    margin-left: 10px;
+}
+
+.likeAndComments h2{
+    margin-top: 20px;
+}
+
+.formComments{
+    width: 90%;
+    margin: 0px auto;
+}
+
+.formComments input[type="submit"]{
+    
+    margin-top: 10px;
+}
+
+.formComments textarea{
+    border: 2px solid #cccccc;
+}
+
+.userdata img{
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
